@@ -1,4 +1,4 @@
-# Business Entity Resolution at Scale
+# Amazon ML Challenge 2026: Business Entity Resolution at Scale
 
 Match 2.2M businesses against 10.3M records from two other sources, across three countries,
 on a single 32 GB machine. Built for the Amazon ML Challenge.
