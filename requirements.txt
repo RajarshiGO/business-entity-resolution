@@ -1,0 +1,12 @@
+# Python 3.10 (SageMaker conda_python3 kernel)
+# Versions read from the install logs in the executed notebook; pandas was preinstalled, so its exact version is not logged.
+duckdb==1.5.5
+lightgbm==4.7.0
+numpy==2.2.6
+pyarrow==25.0.0
+pandas>=2.2,<3
+rapidfuzz==3.14.5     # stage 1: Jaro-Winkler base features
+scikit-learn==1.7.2   # stage 1: evaluation helpers
+regex                 # stage 1: tokenizer
+psutil                # stage 1: memory checks
+matplotlib            # notebook 00: charts
